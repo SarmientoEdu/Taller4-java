@@ -1,10 +1,10 @@
 # DETALLES DE CONTROL DEL EQUIPO - complete TODOS los campos (sin tildes).
 # Cedula: escriba solo los ULTIMOS 3 DIGITOS (ej. 8-123-456 -> 456).
 # La semilla del taller sale del integrante 1.
-Sucaritas24=PENDIENTE
-integrante1_apellido=Gago
+usuario_github=Sucaritas24
 integrante1_nombre=Norlan
-integrante1_cedula=721
-integrante2_apellido=Ayarza
+integrante1_apellido=Gago
+integrante1_cedula_ultimos3=721
 integrante2_nombre=Joel
-integrante2_cedula=005
+integrante2_apellido=Ayarza
+integrante2_cedula_ultimos3=005
