@@ -2,9 +2,9 @@
 # Cedula: escriba solo los ULTIMOS 3 DIGITOS (ej. 8-123-456 -> 456).
 # La semilla del taller sale del integrante 1.
 Sucaritas24=PENDIENTE
-integrante1_Norlan=PENDIENTE
-integrante1_Gago=PENDIENTE
-integrante1_8721=PENDIENTE
-integrante2_Joel=PENDIENTE
-integrante2_Ayarza=PENDIENTE
-integrante2_005=PENDIENTE
+integrante1_apellido=Gago
+integrante1_nombre=Norlan
+integrante1_cedula=721
+integrante2_apellido=Ayarza
+integrante2_nombre=Joel
+integrante2_cedula=005
