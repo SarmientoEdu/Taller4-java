@@ -92,11 +92,13 @@ public class Main {
                 + " | Destino: saldo=" + Contexto.dinero(destino.getSaldo()));
 
         // ===== PARTE 5: BANCO =====
+
         Banco banco = new Banco(cuenta1, cuenta2);
         CuentaAhorro mayor = banco.cuentaMayorSaldo();
         double montoCom = Escenario.montoComision(semilla);
 
         System.out.println("== PARTE 5: BANCO ==");
+
                 System.out.println("Total depositos: " + Contexto.dinero(banco.totalDepositos()));
         System.out.println("Cuenta con mayor saldo: " + mayor.getNumero());
         System.out.println("Comision estimada cuenta " + mayor.getNumero() + " por " + Contexto.dinero(montoCom)
